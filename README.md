@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *Put your name here*
-* ID: *Put your ID here*
+* Name: Trần Đức Quang
+* ID: USTHBI8-144
 
 
