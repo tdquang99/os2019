@@ -1,0 +1,10 @@
+quang@quang-VirtualBox:~$ ls -la | grep list
+quang@quang-VirtualBox:~$ wc -l /etc/passwd
+35 /etc/passwd
+quang@quang-VirtualBox:~$ cat/proc/cpuinfo | grep processor | wc-l
+bash: cat/proc/cpuinfo: No such file or directory
+0
+quang@quang-VirtualBox:~$ /usr/share/backgrounds/linuxmint-tara$ find -name "*.jpg" | wc -l
+bash:/usr/share/backgrounds/linuxmint-tara$: No such file or directory
+0
+
