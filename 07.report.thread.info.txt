@@ -1,0 +1,6 @@
+quang@quang-Virtualbox:~$ps aux | grep -i firefox
+quang     1894  0.9 16.2 808528 205964 ?       Sl   08:46   0:05 /usr/lib/firefox/firefox
+quang     2179  0.0  0.2  17420  2592 pts/0    S+   08:55   0:00 grep --color=auto -i firefox
+quang@quang-Virtualbox:~$ps -o nlwp 1894
+NLWP
+38
